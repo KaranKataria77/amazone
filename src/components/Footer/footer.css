@@ -1,0 +1,20 @@
+.backToTop{
+    height: 50px;
+    width: 1518px;
+    background-color: #37475A;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.connect{
+    height: 550px;
+    width: 1518px;
+    background-color: #232F3E;
+}
+
+/* #0F1111 */

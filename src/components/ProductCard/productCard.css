@@ -1,0 +1,25 @@
+.card{
+    height: 410px;
+    width: 350px;
+    padding: 20px;
+}
+
+.product{
+    height: 280px;
+    width: 310px;
+}
+
+.productImg{
+    height: 115px;
+    width: 145px;
+}
+
+.productImage{
+    height: 115px;
+    width: 145px;
+    margin-left: 16px;
+}
+
+.productImageHeader{
+    margin-top: 40px;
+}

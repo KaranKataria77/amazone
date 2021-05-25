@@ -1,0 +1,12 @@
+.headerBlock{
+    background-color: #232f3e;
+    height: 45px;
+}
+
+.headerPoint{
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 7px;
+    margin-left: 10px;
+}
